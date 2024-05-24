@@ -1,5 +1,14 @@
 # AMPLOYMENT---for-Employers-and-Employees-
 This is Job portal Software using HTML, CSS, JS, PHP and MYSQL. Developed During Hackathon By 3 Members Team.
+Some Image Shots:
+<img src="php.png" width="690px" height="395px">
+<br>
+<img src="php2.png" width="690px" height="395px">
+<br>
+<img src="php3.png" width="690px" height="395px">
+<br>
+<img src="php4.png" width="690px" height="395px">
+<br>
 Sure! Here are the steps to run a PHP MySQL project:
 
 ### Prerequisites
