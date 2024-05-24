@@ -9,7 +9,7 @@ Some Image Shots:
 <br>
 <img src="php4.png" width="690px" height="395px">
 <br>
-Sure! Here are the steps to run a PHP MySQL project:
+Here are the steps to run a PHP MySQL project:
 
 ### Prerequisites
 1. **Install a local server environment:** You can use software like XAMPP, WAMP, MAMP, or LAMP depending on your operating system.
